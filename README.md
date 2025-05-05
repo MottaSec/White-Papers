@@ -14,7 +14,7 @@ This repository is organized with each white paper in its own dedicated folder. 
 
 | White Paper | Description | Publication Date |
 |-------------|-------------|------------------|
-| [Military Drone Hijack](Comms Hijack in Military FPV Drone/military_drone_hijack.md) | Analysis of communication vulnerabilities in military-grade FPV drone systems | January 2024 |
+| [Military Drone Hijack](Comms%20Hijack%20in%20Military%20FPV%20Drone/military_drone_hijack.md) | Analysis of communication vulnerabilities in military-grade FPV drone systems | January 2024 |
 
 ## How to Use This Repository
 
