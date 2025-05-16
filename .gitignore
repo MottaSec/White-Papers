@@ -61,7 +61,6 @@ yarn-error.log
 *.sublime-project
 
 # Generated files
-*.pdf
 *.html
 *.log
 *.zip
