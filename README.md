@@ -16,6 +16,8 @@ This repository is organized with each white paper in its own dedicated folder. 
 |-------------|-------------|------------------|
 | [Military Drone Hijack](Comms%20Hijack%20in%20Military%20FPV%20Drone/military_drone_hijack.md) | Analysis of communication misconfigurations in military-grade FPV drone systems | January 2024 |
 | [Memory Corruption via Pointer Authentication Bypass](ARM%20Pointer%20Authentication%20Bypass/arm_pac_bypass.md) | Detailed analysis of defeating ARM's PAC security through timing side-channels and mathematical properties of cryptographic operations | March 2024 |
+| [Hardware Trojans in Third-Party IP Cores](Hardware%20Trojans%20IP%20Cores/hardware_trojans_whitepaper.md) | Detection methodologies for malicious circuits in semiconductor supply chains | April 2024 |
+| [Polymorphic Shellcode Generation for Modern Architecture Bypasses](Polymorphic%20Shellcode%20Bypass/polymorphic_shellcode_whitepaper.md) | Creating attack payloads that dynamically morph to evade detection | January 2025 |
 
 ## How to Use This Repository
 
